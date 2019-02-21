@@ -1,0 +1,1 @@
+worker: python Fusion_BOT.py
