@@ -1,1 +1,1 @@
-worker: python Fusion_BOT.py
+worker: python3 Fusion_BOT.py
